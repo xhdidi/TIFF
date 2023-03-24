@@ -1,0 +1,40 @@
+Key: Image SubfileType, value Full-resolution Image 
+Key: Image ImageWidth, value 2048 
+Key: Image ImageLength, value 1536 
+Key: Image BitsPerSample, value 16 
+Key: Image Compression, value Uncompressed 
+Key: Image PhotometricInterpretation, value 1 
+Key: Image Make, value Yusense 
+Key: Image Model, value AQ600 
+Key: Image StripOffsets, value 5312 
+Key: Image Orientation, value Horizontal (normal) 
+Key: Image SamplesPerPixel, value 1 
+Key: Image RowsPerStrip, value 1536 
+Key: Image StripByteCounts, value 6291456 
+Key: Image PlanarConfiguration, value 1 
+Key: Image Software, value V1.0.21 
+Key: Image DateTime, value 2021:09:02 11:04:55 
+Key: Image Tag 0xC619, value [1, 1] 
+Key: Image BlackLevel, value 3846 
+Key: Image ApplicationNotes, value [] 
+Key: Image ExifOffset, value 4932 
+Key: GPS GPSVersionID, value [1, 0, 0, 0] 
+Key: GPS GPSLatitudeRef, value N 
+Key: GPS GPSLatitude, value [36, 28, 2843063/100000] 
+Key: GPS GPSLongitudeRef, value E 
+Key: GPS GPSLongitude, value [120, 37, 1215547/100000] 
+Key: GPS GPSAltitudeRef, value 0 
+Key: GPS GPSAltitude, value 2363/10 
+Key: GPS GPSDOP, value 26/25 
+Key: GPS GPSSpeedRef, value K 
+Key: GPS GPSSpeed, value 2491287/100000 
+Key: Image GPSInfo, value 5110 
+Key: EXIF ExposureTime, value 1/1036 
+Key: EXIF ISOSpeed, value 100 
+Key: EXIF ExifVersion, value 0230 
+Key: EXIF DateTimeOriginal, value 2021:09:02 11:04:55 
+Key: EXIF DateTimeDigitized, value 2021:09:02 11:04:55 
+Key: EXIF MeteringMode, value Average 
+Key: EXIF FocalLength, value 196/25 
+Key: EXIF ExposureMode, value Auto Exposure 
+Key: EXIF FNumber, value 11/5 
