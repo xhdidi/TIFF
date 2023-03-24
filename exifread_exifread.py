@@ -53,6 +53,4 @@ if __name__ == '__main__':
     lng = getLatOrLng('GPS GPSLongitudeRef', 'GPS GPSLongitude')  # 经度
     print('纬度:{0} 经度：{1}'.format(lat, lng))
 
-    # location = getlocation(str(lat), str(lng))
-    # print('位置：{0}'.format(location))
 
